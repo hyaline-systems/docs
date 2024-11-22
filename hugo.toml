@@ -1,7 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://docs.hyaline.systems/'
 languageCode = 'en-us'
 title = 'docs.hyaline.systems'
 theme = 'hugo-book'
+
+enableGitInfo = true
 
 [params]
   BookTheme = 'auto'

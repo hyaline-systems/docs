@@ -4,8 +4,7 @@ hyaline.systems is a creative technology studio based in Copenhagen, Denmark.
 
 See [hyaline.systems](https://hyaline.systems) for more information. 
 
-## Contributing to these pages
+## Electronics projects
 
-Everyone is welcome to contribute corrections and changes to these pages. 
+- [Simple Robot Brain](/docs/simple-robot-brain)
 
-[Simply go here, make a pull request or open an issue](https://github.com/hyaline-systems/docs).
