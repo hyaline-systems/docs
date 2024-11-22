@@ -4,6 +4,8 @@ hyaline.systems is a creative technology studio based in Copenhagen, Denmark.
 
 See [hyaline.systems](https://hyaline.systems) for more information. 
 
+
+
 ## Contributing to these pages
 
 Everyone is welcome to contribute corrections and changes to these pages. 
