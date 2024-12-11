@@ -1,4 +1,4 @@
-baseURL = 'https://docs.hyaline.systems/'
+baseURL = 'https://hyaline-systems.github.io/docs'
 languageCode = 'en-us'
 title = 'docs.hyaline.systems'
 theme = 'hugo-book'
